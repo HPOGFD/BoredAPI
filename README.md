@@ -1,6 +1,9 @@
 # Project Title
 
-A brief description of what this project does and its purpose.
+**BoredAPI** 
+
+The **BoredAPI** is an interactive guide designed to help you find fun activities to do when you're feeling bored. Whether you're at home, outdoors, or with friends, this map offers suggestions for various activities based on your mood and environment. From quick hobbies to adventurous outings, the Bored Map will inspire you to make the most of your free time!
+
 
 ## Table of Contents
 
